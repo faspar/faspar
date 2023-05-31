@@ -1,5 +1,7 @@
 # Hi there 👋
-![TOMI A](https://github.com/faspar/faspar/assets/129106568/9393dbf2-4bb4-4074-84fa-9a1e1ec284e3)
+
+![TOMI A  (1640 × 624 px) (1640 × 524 px)](https://github.com/faspar/faspar/assets/129106568/d7fbf92f-a5a6-4ad0-9151-757d1556d399)
+
 I am a detail-oriented and analytical thinker with superior consultative 
 skills, **specializing in transforming data into meaningful insights to 
 achieve complex business objectives**. With over 10 years of experience 
