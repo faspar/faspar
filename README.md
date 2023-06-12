@@ -1,19 +1,12 @@
 # Hi there 👋
 
 ![TOMI A  (1640 × 624 px) (1640 × 524 px)](https://github.com/faspar/faspar/assets/129106568/d7fbf92f-a5a6-4ad0-9151-757d1556d399)
+I am a meticulous and analytical Python developer with a strong focus on leveraging data to drive valuable insights. Through my recent experience in consultancy roles, I have **successfully collaborated with product and engineering teams** to enhance software application experiences. 
 
-I am a detail-oriented and analytical thinker with superior consultative 
-skills, **specializing in transforming data into meaningful insights to 
-achieve complex business objectives**. With over 10 years of experience 
-as a managing director, I have honed my analytical and problem-solving 
-abilities, extracting valuable insights from diverse data sets in financial, 
-market research, and operational analysis. Additionally, my background 
-in business consulting has equipped me with expertise in research, 
-negotiation, and cost-benefit analysis. Graduating at the top of my class 
-in a HyperionDev Data Science Bootcamp, I have acquired a **strong 
-foundation in Python, Data Analysis, Data Modeling, Machine Learning, 
-and Data Analytics**. With a focus on delivering data-driven strategies, I 
-am well-equipped to drive successful outcomes for organizations.
+My enthusiasm for data analysis stems from my scientific background, which equips me with the expertise to evaluate, measure, and test data quality and effectiveness. Graduating at the top of my class in the HyperionDev Data Science Bootcamp has further solidified my proficiency in **Python, Machine Learning, and Data Analytics.**
+I can develop efficient and scalable solutions, leveraging data to solve problems and optimize processes. I am dedicated to utilizing my **skills and knowledge to create impactful software applications** and contribute to the growth and success of organizations.
+
+
 
 ## Tech Stack
 - Anaconda
